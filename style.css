@@ -1,0 +1,47 @@
+.container {
+    text-align: center;
+}
+
+.logo {
+    width: 10%;
+    height: auto;
+    border-radius: 50%;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.row {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 2%;
+    background-color: rgb(228, 67, 126);
+}
+
+.col-4 {
+    margin-left: 4%;
+    margin-right: 4%;
+    width: 350px;
+    background-color: rgb(227, 107, 151);
+    border-radius: 15px;
+}
+
+.hello-kitty {
+    border-radius: 50px;
+    width: 100%;
+}
+
+html body {
+    background-color: rgb(228, 67, 126);
+}
+
+.container {
+    background-color: rgb(228, 67, 126);
+}
+
+.text {
+    margin-top: 5px;
+    color: white;
+}
+
